@@ -11,7 +11,8 @@ public class WasIstEinArray {
 		 @SuppressWarnings("unused")
 		int zahl = 50;
 		 @SuppressWarnings("unused")
-		double zahl1 = 34.34;		 
+		double zahl1 = 34.34;
+		 
 		/*  
 		 * Array Deklaration
 		 * Datentyp[] Name = new Datentyp[Anzahl];
